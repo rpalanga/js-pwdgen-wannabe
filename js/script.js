@@ -20,6 +20,12 @@ document.getElementById("Color").innerHTML = `Il tuo colore preferito è ${color
 
 // fine inserimento colore //
 
+//  inserimento password //
+
+const password = nome + surname + color + 23;
+
+document.getElementById("Pass").innerHTML = `La tua password  è ${password}`
+
 
 
 
