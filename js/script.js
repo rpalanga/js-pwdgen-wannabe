@@ -1,4 +1,4 @@
-const nome = prompt("Come ti chiami");
+const nome = prompt("Come ti chiami?");
 
 document.getElementById("Name").innerHTML = ` Il tuo nome è ${nome}`
 
